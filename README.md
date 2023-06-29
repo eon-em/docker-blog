@@ -1,2 +1,2 @@
 # docker-blog
-My personal docker made as an Docker example test activity.
+My personal blog made as an Docker example test activity.
